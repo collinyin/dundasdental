@@ -1,0 +1,11 @@
+/* Portfolio */
+.portfolio-item {
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 2px 8px 0px;
+    height: 100%;
+    background-color: white;
+}
+
+/* Team */
+.team-member img {
+    object-fit: cover;
+}
